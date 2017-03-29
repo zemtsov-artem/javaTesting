@@ -1,11 +1,4 @@
 package none;
-//import org.juint.assert;
-//import org.juint.before;
-//import org.juint.Test;
-////        runners.Parameterized
-////        runner RunWith
-//import static org.junit.Assert*;
-
 
 /**
  * Created by artemon on 29.03.17.
